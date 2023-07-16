@@ -1,1 +1,95 @@
-# Front-End-BootCamp
+# -Tuwaiq-TypeScript-Bootcamp-Frontend
+
+Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
+
+## Schedule
+|  | Days | Time |
+| --- | ------------- | ------------- |
+| Class | Sun - Thurs  | 10am - 3pm  |
+
+
+
+## Unit 1 \(Web Development Essentials \)
+
+| Topics |
+| :--- |
+| Git , GitHub|
+| HTML,UI&UX, CSS |
+
+
+
+
+
+## Unit 2 \(Web Development with JavaScript \)
+
+| Topics |
+| :--- |
+| JavaScript, DOM, , API |
+| Advanced JS|TypeScript
+
+
+
+## Unit 3 \(Web Development with React \)
+
+|  React,JSX ,State|
+| Axios, Redux, NPM|
+| JEST|
+
+## What We Expect From You
+### Graduation Requirements
+* Complete and submit all assignments.
+* Maintain consistent attendance.
+* Complete and submit the all projects.
+### Additional Expectations
+* Be present.
+* Contribute constructively.
+* Work hard.
+* Ask questions.
+* Be supportive.
+* Talk to us
+
+| Week | Day | Lesson | Lap | HomeWork |
+|:----:|:---:|:------:|:---:|:--------:|
+| Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web-lab/blob/main/README.md)|[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)
+| Week1| 2  |[HTML-Lesson]()|[HTML-Lab]()|[HTML-HW]()
+| Week1| 3  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
+| Week1| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
+| Week1| 5  |[UI&UX-Lesson]()|[UI&UX-Lab]()|[UI&UX-HW]()
+| Week2| 1  |[Figma-Lesson]()|[Figma-Lab]()|[Figma-HW]()
+| Week2| 2  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
+| Week2| 3  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
+| Week2| 4  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
+| Week2| 5  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
+| Week3| 1  |[Intro-To-JavaScript-Lesson]()|[Intro-To-JavaScript-Lab]()|[Intro-To-JavaScript-HW]()
+| Week3| 2  |[JavaScript-Array-Lesson]()|[JavaScript-Array-Lab]()|[JavaScript-Array-HW]()
+| Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Function-Lab]()|[JavaScript-Function-HW]()
+| Week3| 4  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
+| Week3| 5  |[JavaScript-DomLesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
+| Week4| 1  |[JavaScript-API-Lesson]()|[JavaScript-API-Lab]()|[JavaScript-API-HW]()
+| Week4| 2  |[JavaScript-Review-Lesson]()|[JavaScript-Review-Lab]()|[JavaScript-Review-HW]()
+| Week4| 3  |[TypeScript-Lesson]()|[TypeScript-Lab]()|[TypeScript-HW]()
+| Week4| 4  |[JavaScript-Exam]()|[JavaScript-Exam]()|[JavaScript-Exam]()
+| Week4| 5  |[JavaScript-Project]()|[JavaScript-Project]()|[JavaScript-Project]()
+| Week5| 1  |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
+| Week5| 2  |[React-Props-ts-Lesson]()|[React-Props-ts-Lab]()|[React-Props-ts-HW]()
+| Week5| 3  |[Tailwind-Lesson]()|[Tailwind-Lab]()|[Tailwind-HW]()
+| Week5| 4  |[React-Routing-Lesson]()|[React-Routing-Lap]()|[React-Routing-HW]()
+| Week5| 5  |[React-State-with-TypeScript-Lesson]()|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
+| Week6| 1  |[React-State-with-TypeScript-Lesson]()|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
+| Week6| 2  |[React-UseEffect-with-TypeScript-Lesson]()|[React-UseEffect-with-TypeScript-Lab]()|[React-UseEffect-with-TypeScript-HW]()
+| Week6| 3  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
+| Week6| 4  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
+| Week6| 5  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
+| Week7| 1  |[React-Exam]()|[React-Exam]()|[React-Exam]()
+| Week7| 2  |[Redux-Lesson]()|[Redux-Lab]()|[Redux-HW]()
+| Week7| 3  |[Jest-Lesson]()|[Jest-Lab]()|[Jest-HW]()
+| Week7| 4  |[React-Review-Lesson]()|[React-Review-Lab]()|[React-Review-HW]()
+| Week7| 5  |[Deploy-Lesson]()|[Deploy]()|[Deploy]()
+| Week8| 1  |[Finall-Project]()|[Finall-Project]()|[Finall-Project]()
+| Week8| 2  |[Finall-Project]()|[Finall-Project]()|[Finall-Project]()
+| Week8| 3  |[Finall-Project]()|[Finall-Project]()|[Finall-Project]()
+| Week8| 4  |[Finall-Project]()|[Finall-Project]()|[Finall-Project]()
+| Week8| 5  |[Finall-Project]()|[Finall-Project]()|[Finall-Project]()
+
+
+
