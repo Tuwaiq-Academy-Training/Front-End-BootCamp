@@ -64,7 +64,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 2  |[JavaScript-Array-Lesson]()|[JavaScript-Array-Lab]()|[JavaScript-Array-HW]()
 | Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Function-Lab]()|[JavaScript-Function-HW]()
 | Week3| 4  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
-| Week3| 5  |[JavaScript-DomLesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
+| Week3| 5  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
 | Week4| 1  |[JavaScript-API-Lesson]()|[JavaScript-API-Lab]()|[JavaScript-API-HW]()
 | Week4| 2  |[JavaScript-Review-Lesson]()|[JavaScript-Review-Lab]()|[JavaScript-Review-HW]()
 | Week4| 3  |[TypeScript-Lesson]()|[TypeScript-Lab]()|[TypeScript-HW]()
