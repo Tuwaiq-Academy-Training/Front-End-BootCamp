@@ -53,7 +53,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web-lab/blob/main/README.md)|[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)
 | Week1| 2  |[HTML-Lesson]()|[HTML-Lab]()|[HTML-HW]()
 | Week1| 3  |[Git&GitHub-Lesson](https://github.com/owisqari/Git-GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
-| Week1| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
+| Week1| 4  |[Git&GitHub-Lesson](https://github.com/owisqari/GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 5  |[UI&UX-Lesson]()|[UI&UX-Lab]()|[UI&UX-HW]()
 | Week2| 1  |[Figma-Lesson]()|[Figma-Lab]()|[Figma-HW]()
 | Week2| 2  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
