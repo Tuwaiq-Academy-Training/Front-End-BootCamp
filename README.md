@@ -54,7 +54,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab]()|[HTML-HW]()
 | Week1| 3  |[Git&GitHub-Lesson](https://github.com/owisqari/Git-GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 4  |[Git&GitHub-Lesson](https://github.com/owisqari/GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
-| Week1| 5  |[UI&UX-Lesson]()|[UI&UX-Lab]()|[UI&UX-HW]()
+| Week1| 5  |[UI&UX-Lesson](https://github.com/owisqari/UX-UI/blob/main/README.md)|[UI&UX-Lab]()|[UI&UX-HW]()
 | Week2| 1  |[Figma-Lesson]()|[Figma-Lab]()|[Figma-HW]()
 | Week2| 2  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
 | Week2| 3  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
