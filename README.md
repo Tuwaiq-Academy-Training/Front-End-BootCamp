@@ -61,7 +61,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 4  |[Css-Flexbox-Lesson](https://github.com/owisqari/CSS-Grid/blob/main/README.md)|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week2| 5  |[Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Bootstrab-Lesson/blob/main/README.md)|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week3| 1  |[Intro-To-JavaScript-Lesson](https://github.com/Tuwaiq-Academy-Training/Intro-To-JavaScript-Lesson)|[Intro-To-JavaScript-Lab]()|[Intro-To-JavaScript-HW]()
-| Week3| 2  |[JavaScript-Array-Lesson]()|[JavaScript-Array-Lab]()|[JavaScript-Array-HW]()
+| Week3| 2  |[JavaScript-Array-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Array-Lesson/blob/main/README.md)|[JavaScript-Array-Lab]()|[JavaScript-Array-HW]()
 | Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Function-Lab]()|[JavaScript-Function-HW]()
 | Week3| 4  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
 | Week3| 5  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
