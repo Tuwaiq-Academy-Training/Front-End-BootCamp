@@ -67,7 +67,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 5  |[JavaScript-Dom-Lesson]()|[JavaScript-Dom-Lab]()|[JavaScript-Dom-HW]()
 | Week4| 1  |[JavaScript-API-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-API-Lesson/blob/main/README.md)|[JavaScript-API-Lab]()|[JavaScript-API-HW]()
 | Week4| 2  |[JavaScript-Review-Lesson]()|[JavaScript-Review-Lab]()|[JavaScript-Review-HW]()
-| Week4| 3  |[TypeScript-Lesson]()|[TypeScript-Lab]()|[TypeScript-HW]()
+| Week4| 3  |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[TypeScript-Lab]()|[TypeScript-HW]()
 | Week4| 4  |[JavaScript-Exam]()|[JavaScript-Exam]()|[JavaScript-Exam]()
 | Week4| 5  |[JavaScript-Project]()|[JavaScript-Project]()|[JavaScript-Project]()
 | Week5| 1  |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
