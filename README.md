@@ -72,7 +72,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week4| 5  |[JavaScript-Project]()|[JavaScript-Project]()|[JavaScript-Project]()
 | Week5| 1  |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week5| 2  |[React-Props-ts-Lesson](https://github.com/Tuwaiq-Academy-Training/Props-ts-Lesson)|[React-Props-ts-Lab](https://github.com/Tuwaiq-Academy-Training/React-Props-ts-Lab/blob/main/README.md)|[React-Props-ts-HW]()
-| Week5| 3  |[Tailwind-Lesson]()|[Tailwind-Lab]()|[Tailwind-HW]()
+| Week5| 3  |[Tailwind-Lesson](https://github.com/owisqari/Tailwind-Lesson/blob/main/README.md)|[Tailwind-Lab]()|[Tailwind-HW]()
 | Week5| 4  |[React-Routing-Lesson]()|[React-Routing-Lap]()|[React-Routing-HW]()
 | Week5| 5  |[React-State-with-TypeScript-Lesson]()|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
 | Week6| 1  |[React-State-with-TypeScript-Lesson]()|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
