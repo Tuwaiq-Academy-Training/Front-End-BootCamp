@@ -77,7 +77,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week5| 5  |[React-State-with-TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript)|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
 | Week6| 1  |[React-State-with-TypeScript-Lesson]()|[React-State-with-TypeScriptTypeScript-Lap]()|[React-State-withTypeScript-HW]()
 | Week6| 2  |[React-UseEffect-with-TypeScript-Lesson]()|[React-UseEffect-with-TypeScript-Lab]()|[React-UseEffect-with-TypeScript-HW]()
-| Week6| 3  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
+| Week6| 3  |[CRUD-Lesson](https://github.com/Tuwaiq-Academy-Training/API-Lesson-TypeScript/blob/main/README.md)|[CRUD-Lab]()|[CRUD-HW]()
 | Week6| 4  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
 | Week6| 5  |[CRUD-Lesson]()|[CRUD-Lab]()|[CRUD-HW]()
 | Week7| 1  |[React-Exam]()|[React-Exam]()|[React-Exam]()
